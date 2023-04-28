@@ -12,12 +12,5 @@ public class DataHelper {
         return array;
     }
 
-    public int validNumber() {
-        return 7;
-    }
-
-    public String validName() {
-        return "Вячеслав";
-    }
 }
 
